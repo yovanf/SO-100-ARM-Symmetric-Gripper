@@ -18,8 +18,8 @@ The servo mounting plate is directly attached to one claw, and motion is transfe
 
 **Assembly Steps**  
 1) Place the servo ST3215 on the Upper Case
-2) Secure it with 2 mall screws
-3) On the left claw attach the servo metal plate and secure with 4 screws
+2) Secure it with 2 small screws
+3) On the left claw attach the servo metal plate and secure with 4 x M3 screws
 4) Place the 2 claws in the Lower Case in a gripper closed position
 5) Place the Upper Case on top of the Lower Case , making sure that gear of the plate slides in the servo shaft gear. (you might need to move the claws slightly)
 6) Secure the Upper Case on the Lower Case with 4 small screws
