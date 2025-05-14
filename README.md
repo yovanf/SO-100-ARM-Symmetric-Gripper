@@ -41,5 +41,6 @@ STL Files & Licensing All STL files included in this repository are released und
 
 Add a camera mount attachment to the servo motor body
 
-Upload an assembly video
+Upload an assembly video  
 
+Enhance the aesthetics with rounded corners
