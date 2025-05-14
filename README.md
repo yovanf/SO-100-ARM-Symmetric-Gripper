@@ -14,7 +14,16 @@ Compatibility with ST3215 servo motors
 
 A gear-driven mechanism that eliminates the need for additional fasteners (beyond those supplied with the servo)
 
-The servo mounting plate is directly attached to one claw, and motion is transferred to the second claw via integrated gearing. For improved grip, it's recommended to line the claws with soft or spongy material.
+The servo mounting plate is directly attached to one claw, and motion is transferred to the second claw via integrated gearing. For improved grip, it's recommended to line the claws with soft or spongy material.  
+
+**Assembly Steps**  
+1) Place the servo ST3215 on the Upper Case
+2) Secure it with 2 mall screws
+3) On the left claw attach the servo metal plate and secure with 4 screws
+4) Place the 2 claws in the Lower Case in a gripper closed position
+5) Place the Upper Case on top of the Lower Case , making sure that gear of the plate slides in the servo shaft gear. (you might need to move the claws slightly)
+6) Secure the Upper Case on the Lower Case with 4 small screws
+   
 
 **Features**
 
