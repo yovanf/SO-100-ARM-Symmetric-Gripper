@@ -1,4 +1,4 @@
-**SO-100-YF Gripper ** 
+**SO-100-YF Gripper**
 Version: 1  
 Date: 14/05/2025  
 Designer: Yovan Fowdar  
