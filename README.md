@@ -5,7 +5,7 @@ Designer: Yovan Fowdar
 Organization: Mauritius AI Community  
 
 Overview The SO-100-YF Gripper is a simple, symmetrical claw-style robotic gripper designed as an alternative to existing solutions. It is inspired by and based on the LeRobot project https://github.com/huggingface/lerobot.
-![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)  
+![Gripper](https://raw.githubusercontent.com/yovanf/SO-100-ARM-Symmetric-Gripper/refs/heads/main/Assembly%20Views.png)  
 **This gripper features:**
 
 Symmetrical claw closure for balanced gripping
