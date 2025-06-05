@@ -47,3 +47,6 @@ Add a camera mount attachment to the servo motor body
 Upload an assembly video  
 
 Enhance the aesthetics with rounded corners
+
+**Version 2 ** 
+Please use file 4- Claw-Left- V2.stl  it is taller and is now more suitable to reach the ST-3125 servo metal drive disc, the holes for the screws have also been widen. 
